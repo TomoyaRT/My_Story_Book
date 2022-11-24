@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "deploy": "sh deploy.sh",
-    "storybook": "start-storybook -p 6006",
+    "storybook": "start-storybook -p 3002",
     "build-storybook": "build-storybook"
   },
   "dependencies": {
